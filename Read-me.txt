@@ -1,0 +1,17 @@
+READ ME
+
+Instrução Massa de Dados
+1 - Criar pasta com o seguinte caminho para ler o arquivo CSV "C:\\DBServer\\TesteAutomacao\\massa\\massaDB.csv"
+2 - Preencher o arquivo "massaDB.csv" com os dados desejados.
+
+Bibliotecas e Drivers
+Para a execução do script, será necessário:
+1 - driver chrome no seguinte caminho "C:\\DBServer\\TesteAutomacao\\drivers\\Chrome\\v2.44\\chromedriver.exe"
+2 - o driver será disponibilizado na pasta DBServer
+3 - as bibliotecas utilizadas estão em "DBServer\TesteAutomacao\libs"
+
+Versão Utilizada Eclipse Oxygen
+
+Projeto
+Para execução do script, será necessária importação do projeto via arquivo, disponibilizado no GitHub, junto com os demais arquivos.
+
